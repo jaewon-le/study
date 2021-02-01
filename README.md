@@ -1,1 +1,1 @@
-# study
+# study 강의chapter1 
